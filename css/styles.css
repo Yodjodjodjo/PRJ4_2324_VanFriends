@@ -6,19 +6,19 @@
 
 body {
 	font-family: Raleway, sans-serif;
-	background-color: #fffcf8;
+	background-color: #e4d5bc;
 }
 
 /* Changing the background colour for the header */
 
 header {
-	background-color: #000060;
+	background-color: #073b3a;
 }
 
 /* Changing the background color for the navigation bar */
 
 .navbar {
-	background-color: #fff0e0;
+	background-color: #24484e;
 }
 
 /* Effect on social media buttons */
@@ -41,4 +41,11 @@ footer a:hover {
 		.02em .02em .02em white,
 		0 0 .2em white,
 		0 0 .5em white;
+}
+
+.sizee img{
+  width: 500px;
+  height: 550px;
+  object-fit: cover;
+  border: 1px solid white;
 }
